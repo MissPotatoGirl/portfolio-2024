@@ -53,3 +53,11 @@ h2,
 h3 {
   margin-bottom: 80px;
 }
+
+p{
+  font-weight: 300;
+}
+
+nav{
+  background-color: #ffffff;
+}
